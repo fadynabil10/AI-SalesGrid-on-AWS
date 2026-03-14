@@ -12,9 +12,9 @@
 
 <!-- TODO: Add project logo -->
 
-[![GitHub stars](https://img.shields.io/github/stars/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid/network)
-[![GitHub issues](https://img.shields.io/github/issues/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid/issues)
+[![GitHub stars](https://img.shields.io/github/stars/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid-on-AWS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid-on-AWS/network)
+[![GitHub issues](https://img.shields.io/github/issues/fadynabil10/AI-SalesGrid?style=for-the-badge)](https://github.com/fadynabil10/AI-SalesGrid-on-AWS/issues)
 
 **Your AI Superpower in Sales for Enterprise - Real-Time AI Multi-Agent Sales Orchestrator**
 
